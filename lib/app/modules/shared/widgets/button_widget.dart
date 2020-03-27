@@ -1,20 +1,35 @@
-import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_modular/flutter_modular.dart';
 
 class ButtonWidget extends StatelessWidget {
   final String text;
+  final String press;
+  final Color colorText;
+  final Color colorButton;
+  final double radiusBorder;
+  final double height;
 
-  const ButtonWidget({Key key, @required this.text}) : super(key: key);
+  const ButtonWidget({
+    Key key,
+    @required this.text,
+    @required this.colorText,
+    @required this.colorButton,
+    @required this.radiusBorder,
+    @required this.press,
+    @required this.height,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return Expanded(
+    return SizedBox(
       child: Container(
-        padding: EdgeInsets.all(AppDimensions.medium),
-        height: MediaQuery.of(context).size.height * 0.1,
+        width: double.infinity,
+        height: height,
         child: FlatButton(
-          onPressed: () {},
+          onPressed: () {
+            Modular.to.pushNamed(press);
+          },
           child: Padding(
             padding: const EdgeInsets.only(
               left: AppDimensions.medium,
@@ -26,14 +41,14 @@ class ButtonWidget extends StatelessWidget {
               text,
               style: TextStyle(
                 fontSize: AppDimensions.textSmall,
-                color: AppColors.white,
+                color: colorText,
               ),
             ),
           ),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(5),
+            borderRadius: BorderRadius.circular(radiusBorder),
           ),
-          color: AppColors.blue,
+          color: colorButton,
         ),
       ),
     );

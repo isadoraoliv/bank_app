@@ -13,4 +13,9 @@ class AppDimensions {
 
   static const double iconSmall = 18;
   static const double iconMeduim = 20;
+  static const double iconLargest = 52;
+  static const double iconFinger = 100;
+
+  static const double imageLarge = 40;
+  static const double margin = 72;
 }

@@ -1,4 +1,6 @@
 import 'package:bank_app/app/app_controller.dart';
+import 'package:bank_app/app/modules/profile/profile_module.dart';
+import 'package:bank_app/app/modules/transfer/transfer_module.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
 import 'package:bank_app/app/app_widget.dart';
@@ -12,7 +14,7 @@ class AppModule extends MainModule {
 
   @override
   List<Router> get routers => [
-        Router('/', module: HomeModule()),
+        Router('/', module: ProfileModule()),
       ];
 
   @override
