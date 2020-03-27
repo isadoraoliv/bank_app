@@ -1,7 +1,6 @@
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
 
 class CardOptionsWidget extends StatelessWidget {
   final IconData icon;
