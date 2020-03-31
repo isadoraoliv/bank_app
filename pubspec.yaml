@@ -15,12 +15,16 @@ dependencies:
   dio: ^3.0.9
   flutter_mobx: ^1.1.0
   flutter_modular: ^0.5.6
+  fl_chart: ^0.8.7
   font_awesome_flutter: any
   mobx: ^1.1.1
   splashscreen: ^1.2.0
   screen_utils: ^0.0.1
   line_icons: ^0.2.0
   carousel_slider: ^1.4.1
+  google_maps_flutter: ^0.5.25+2
+  permission: ^0.1.7
+  geolocator: ^5.3.0
   flutter_icons:
   flutter:
     sdk: flutter
@@ -34,9 +38,6 @@ dev_dependencies:
     sdk: flutter
 
 
-  
-
-
 flutter:
 
   uses-material-design: true
@@ -44,6 +45,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - lib/assets/images/mastercard.png
+    - lib/assets/images/confirm.png
 
   # To add custom fonts to your application, add a fonts section here,
   # in this "flutter" section. Each entry in this list should have a
