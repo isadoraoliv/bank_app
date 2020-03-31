@@ -126,7 +126,7 @@ class _LoginPageState extends ModularState<LoginPage, LoginController> {
                   colorButton: AppColors.blue,
                   radiusBorder: 8.0,
                   height: MediaQuery.of(context).size.height * 0.07,
-                  press: "",
+                  onPress: '/home/',
                 ),
                 SizedBox(
                   height: AppDimensions.medium,
@@ -137,7 +137,7 @@ class _LoginPageState extends ModularState<LoginPage, LoginController> {
                   colorButton: AppColors.white,
                   radiusBorder: 8.0,
                   height: MediaQuery.of(context).size.height * 0.07,
-                  press: "/home",
+                  onPress: '/touch_id/',
                 ),
                 SizedBox(
                   height: AppDimensions.largest,
@@ -159,7 +159,7 @@ class _LoginPageState extends ModularState<LoginPage, LoginController> {
                     colorText: AppColors.white,
                     radiusBorder: 0.0,
                     height: MediaQuery.of(context).size.height * 0.1,
-                    press: "",
+                    onPress: "",
                   ),
                 ],
               ),

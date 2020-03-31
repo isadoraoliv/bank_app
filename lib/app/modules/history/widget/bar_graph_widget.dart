@@ -139,7 +139,7 @@ class BarGraphWidgetState extends State<BarGraphWidget> {
                   break;
               }
               return BarTooltipItem(weekDay + '\n' + (rod.y - 1).toString(),
-                  TextStyle(color: Colors.yellow));
+                  TextStyle(color: AppColors.grayDark));
             }),
         touchCallback: (barTouchResponse) {
           setState(() {

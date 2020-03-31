@@ -4,7 +4,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 
 class ButtonWidget extends StatelessWidget {
   final String text;
-  final String press;
+  final String onPress;
   final Color colorText;
   final Color colorButton;
   final double radiusBorder;
@@ -16,7 +16,7 @@ class ButtonWidget extends StatelessWidget {
     @required this.colorText,
     @required this.colorButton,
     @required this.radiusBorder,
-    @required this.press,
+    @required this.onPress,
     @required this.height,
   }) : super(key: key);
 
@@ -28,7 +28,7 @@ class ButtonWidget extends StatelessWidget {
         height: height,
         child: FlatButton(
           onPressed: () {
-            Modular.to.pushNamed(press);
+            Modular.to.pushNamed(onPress);
           },
           child: Padding(
             padding: const EdgeInsets.only(

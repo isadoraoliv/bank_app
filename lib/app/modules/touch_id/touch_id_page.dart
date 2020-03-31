@@ -120,7 +120,7 @@ class _TouchIdPageState extends ModularState<TouchIdPage, TouchIdController> {
               ),
               child: ButtonWidget(
                 text: "Use Touch Id",
-                press: "",
+                onPress: '/home',
                 colorText: AppColors.white,
                 colorButton: AppColors.blue,
                 radiusBorder: 8.0,
@@ -131,7 +131,7 @@ class _TouchIdPageState extends ModularState<TouchIdPage, TouchIdController> {
               padding: const EdgeInsets.only(bottom: AppDimensions.medium),
               child: ButtonWidget(
                 text: "No thanks",
-                press: "",
+                onPress: '/login/',
                 colorText: AppColors.black,
                 colorButton: AppColors.white,
                 radiusBorder: 8.0,

@@ -1,10 +1,8 @@
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
-import 'package:bank_app/app/modules/shared/widgets/circular_avatar_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:flutter_modular/flutter_modular.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'profile_controller.dart';
 
 class ProfilePage extends StatefulWidget {
@@ -21,13 +19,14 @@ class _ProfilePageState extends ModularState<ProfilePage, ProfileController> {
     return Scaffold(
       appBar: AppBar(
         elevation: 0,
-        backgroundColor: AppColors.white,
         title: Text(
           widget.title,
           style: TextStyle(
             color: AppColors.grayDarker,
+            fontSize: AppDimensions.textLarge,
           ),
         ),
+        backgroundColor: AppColors.white,
         actions: <Widget>[
           Padding(
             padding: const EdgeInsets.only(

@@ -21,8 +21,8 @@ class HomeModule extends ChildModule {
             modules: [
               WelcomeModule(),
               HistoryModule(),
-              MapModule(),
               CardModule(),
+              MapModule(),
               ProfileModule(),
             ],
           ),

@@ -41,9 +41,16 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
     return Scaffold(
       body: PageView(
         controller: pageController,
-        children: widget.modules.map((i) => RouterOutlet(module: i)).toList(),
+        physics: NeverScrollableScrollPhysics(),
+        children: widget.modules
+            .map((i) => RouterOutlet(
+                  module: i,
+                  keepAlive: false,
+                ))
+            .toList(),
       ),
-      bottomNavigationBar: BottomBarWidget(),
+      bottomNavigationBar:
+          controller.currentPage == 0 ? BottomBarWidget() : null,
     );
   }
 }

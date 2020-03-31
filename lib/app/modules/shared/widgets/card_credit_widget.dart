@@ -8,6 +8,7 @@ class CardCreditWidget extends StatelessWidget {
   final String numberCard;
   final String value;
   final double height;
+  final double width;
   final Color color;
 
   const CardCreditWidget(
@@ -16,6 +17,7 @@ class CardCreditWidget extends StatelessWidget {
       @required this.numberCard,
       @required this.value,
       @required this.height,
+      @required this.width,
       @required this.color})
       : super(key: key);
 
@@ -46,7 +48,7 @@ class CardCreditWidget extends StatelessWidget {
             ),
           ),
           Container(
-            width: MediaQuery.of(context).size.width * 0.9,
+            width: width,
             height: height,
             padding: const EdgeInsets.all(AppDimensions.large),
             child: Column(
@@ -115,11 +117,11 @@ class CardCreditWidget extends StatelessWidget {
                       ),
                     ),
                     SizedBox(
-                      width: AppDimensions.margin,
+                      width: AppDimensions.medium,
                     ),
                     Padding(
                       padding: const EdgeInsets.only(
-                        left: AppDimensions.largest,
+                        left: AppDimensions.small,
                       ),
                       child: Icon(
                         FontAwesome.credit_card,

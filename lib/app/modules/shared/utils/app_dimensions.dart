@@ -10,9 +10,11 @@ class AppDimensions {
   static const double textMedium = 18;
   static const double textLarge = 20;
   static const double textLargest = 26;
+  static const double textBig = 32;
 
   static const double iconSmall = 18;
   static const double iconMeduim = 20;
+  static const double iconLarge = 32;
   static const double iconLargest = 52;
   static const double iconFinger = 100;
 

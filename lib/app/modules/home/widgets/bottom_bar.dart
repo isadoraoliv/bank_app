@@ -16,77 +16,70 @@ class _BottomBarWidgetState
   @override
   Widget build(BuildContext context) {
     return Observer(
-        builder: (_) => BottomNavigationBar(
-              unselectedItemColor: AppColors.grayLighter,
-              currentIndex: controller.currentPage,
-              onTap: controller.changePage,
-              items: <BottomNavigationBarItem>[
-                BottomNavigationBarItem(
-                  icon: Icon(
-                    LineIcons.home,
-                    color: AppColors.grayLighter,
-                  ),
-                  title: Text(
-                    "Home",
-                    style: TextStyle(
-                      color: AppColors.grayLighter,
-                      fontSize: AppDimensions.textSmall,
-                    ),
-                  ),
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(
-                    LineIcons.pie_chart,
-                    color: AppColors.grayLighter,
-                  ),
-                  title: Text(
-                    "Graph",
-                    style: TextStyle(
-                      color: AppColors.grayLighter,
-                      fontSize: AppDimensions.textSmall,
-                    ),
-                  ),
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(
-                    LineIcons.credit_card,
-                    color: AppColors.grayLighter,
-                  ),
-                  title: Text(
-                    "Card",
-                    style: TextStyle(
-                      color: AppColors.grayLighter,
-                      fontSize: AppDimensions.textSmall,
-                    ),
-                  ),
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(
-                    LineIcons.paper_plane,
-                    color: AppColors.grayLighter,
-                  ),
-                  title: Text(
-                    "Map",
-                    style: TextStyle(
-                      color: AppColors.grayLighter,
-                      fontSize: AppDimensions.textSmall,
-                    ),
-                  ),
-                ),
-                BottomNavigationBarItem(
-                  icon: Icon(
-                    LineIcons.sliders,
-                    color: AppColors.grayLighter,
-                  ),
-                  title: Text(
-                    "Profile",
-                    style: TextStyle(
-                      color: AppColors.grayLighter,
-                      fontSize: AppDimensions.textSmall,
-                    ),
-                  ),
-                ),
-              ],
-            ));
+      builder: (_) => BottomNavigationBar(
+        showUnselectedLabels: false,
+        unselectedItemColor: AppColors.grayLighter,
+        currentIndex: controller.currentPage,
+        onTap: controller.changePage,
+        type: BottomNavigationBarType.fixed,
+        items: <BottomNavigationBarItem>[
+          BottomNavigationBarItem(
+            icon: Icon(
+              LineIcons.home,
+            ),
+            title: Text(
+              "",
+              style: TextStyle(
+                fontSize: AppDimensions.textSmallest,
+              ),
+            ),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(
+              LineIcons.pie_chart,
+            ),
+            title: Text(
+              "",
+              style: TextStyle(
+                fontSize: AppDimensions.textSmallest,
+              ),
+            ),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(
+              LineIcons.credit_card,
+            ),
+            title: Text(
+              "",
+              style: TextStyle(
+                fontSize: AppDimensions.textSmallest,
+              ),
+            ),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(
+              LineIcons.paper_plane,
+            ),
+            title: Text(
+              "",
+              style: TextStyle(
+                fontSize: AppDimensions.textSmallest,
+              ),
+            ),
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(
+              LineIcons.sliders,
+            ),
+            title: Text(
+              "",
+              style: TextStyle(
+                fontSize: AppDimensions.textSmallest,
+              ),
+            ),
+          ),
+        ],
+      ),
+    );
   }
 }

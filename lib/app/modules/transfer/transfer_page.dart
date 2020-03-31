@@ -3,6 +3,7 @@ import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
 import 'package:bank_app/app/modules/shared/widgets/button_widget.dart';
 import 'package:bank_app/app/modules/shared/widgets/card_credit_widget.dart';
 import 'package:bank_app/app/modules/shared/widgets/circular_avatar_widget.dart';
+import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:flutter_modular/flutter_modular.dart';
@@ -31,7 +32,8 @@ class _TransferPageState
             size: AppDimensions.iconMeduim,
           ),
           onPressed: () {
-            Modular.to.pop();
+            Modular.to
+                .pushNamedAndRemoveUntil('/welcome', ModalRoute.withName('/'));
           },
         ),
         title: Text(
@@ -120,39 +122,20 @@ class _TransferPageState
                     ),
                   ),
                 ),
-                SingleChildScrollView(
-                  scrollDirection: Axis.horizontal,
-                  child: Row(
-                    children: <Widget>[
-                      CardCreditWidget(
-                        validate: "03/20",
-                        numberCard: "... .... 7 3 6 2",
-                        value: "R\$ 2.151.20",
-                        height: MediaQuery.of(context).size.height / 4.7,
-                        color: AppColors.blue,
-                      ),
-                      SizedBox(
-                        width: AppDimensions.medium,
-                      ),
-                      CardCreditWidget(
-                        validate: "03/20",
-                        numberCard: "... .... 7 3 6 2",
-                        value: "R\$ 2.151.20",
-                        height: MediaQuery.of(context).size.height / 4.7,
-                        color: AppColors.blue,
-                      ),
-                      SizedBox(
-                        width: AppDimensions.medium,
-                      ),
-                      CardCreditWidget(
-                        validate: "03/20",
-                        numberCard: "... .... 7 3 6 2",
-                        value: "R\$ 2.151.20",
-                        height: MediaQuery.of(context).size.height / 4.7,
-                        color: AppColors.blue,
-                      ),
-                    ],
-                  ),
+                CarouselSlider(
+                  height: MediaQuery.of(context).size.height / 4.5,
+                  initialPage: 0,
+                  onPageChanged: (index) {},
+                  items: <Widget>[
+                    CardCreditWidget(
+                      validate: "03/20",
+                      numberCard: "... .... 7 3 6 2",
+                      value: "R\$ 2.151.20",
+                      height: MediaQuery.of(context).size.height / 4.7,
+                      width: MediaQuery.of(context).size.width * 1.2,
+                      color: AppColors.blue,
+                    ),
+                  ],
                 ),
                 SizedBox(
                   height: AppDimensions.medium,
@@ -217,15 +200,17 @@ class _TransferPageState
                     ),
                   ),
                 ),
-                SizedBox(
+
+                ///todo
+                /*SizedBox(
                   height: AppDimensions.largest,
-                ),
+                ),*/
                 ButtonWidget(
                   text: "Next",
                   colorText: AppColors.white,
                   colorButton: AppColors.blue,
-                  radiusBorder: 8.0,
-                  press: null,
+                  radiusBorder: 8,
+                  onPress: '/send_transfer/',
                   height: MediaQuery.of(context).size.height * 0.07,
                 )
               ],

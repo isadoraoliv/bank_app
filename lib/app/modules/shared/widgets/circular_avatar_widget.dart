@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 class CircularAvatarWidget extends StatelessWidget {
   final String text;
   final IconData icon;
+  final Image image;
   final Color colorIcon;
   final Color colorName;
   final Color colorBackground;
@@ -13,6 +14,7 @@ class CircularAvatarWidget extends StatelessWidget {
     Key key,
     this.text,
     this.colorName,
+    this.image,
     @required this.colorBackground,
     @required this.colorIcon,
     @required this.icon,
@@ -39,7 +41,10 @@ class CircularAvatarWidget extends StatelessWidget {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.all(8.0),
+            padding: const EdgeInsets.only(
+              left: AppDimensions.small,
+              right: AppDimensions.small,
+            ),
             child: Text(
               text,
               style: TextStyle(
