@@ -5,6 +5,7 @@ import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
 import 'package:bank_app/app/app_widget.dart';
 
+import 'modules/home/home_module.dart';
 import 'modules/transfer/pages/confirm_transfer/confirm_transfer_module.dart';
 
 class AppModule extends MainModule {
@@ -16,6 +17,9 @@ class AppModule extends MainModule {
   @override
   List<Router> get routers => [
         Router('/', module: LoginModule()),
+        Router('/home', module: HomeModule()),
+        Router('/send_transfer', module: SendTransferModule()),
+        Router('/confirm_transfer', module: ConfirmTransferModule()),
       ];
 
   @override

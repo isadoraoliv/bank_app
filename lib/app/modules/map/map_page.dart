@@ -16,49 +16,60 @@ class MapPage extends StatefulWidget {
 }
 
 class _MapPageState extends ModularState<MapPage, MapController> {
-  static const LatLng _center = const LatLng(-19.8157, -43.9542);
-  LatLng _lastMapPosition = _center;
+  double lat = -19.8157;
+  double long = -43.9542;
 
-  Completer<GoogleMapController> _controller = Completer();
+  GoogleMapController mapController;
+
+  _onMapCreated(GoogleMapController controller) {
+    mapController = controller;
+  }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Stack(
-        children: <Widget>[
-          GoogleMap(
-            mapType: MapType.normal,
-            initialCameraPosition: CameraPosition(target: _center, zoom: 11.0),
-            onMapCreated: (GoogleMapController controller) {
-              _controller.complete(controller);
-            },
-            onCameraMove: (CameraPosition position) {
-              _lastMapPosition = position.target;
-            },
-          ),
-          SearchWidget(),
-          Positioned(
-            top: 450,
-            child: Container(
-                width: MediaQuery.of(context).size.width,
-                padding: const EdgeInsets.only(
-                  top: AppDimensions.largest,
-                  left: AppDimensions.largest,
-                  right: AppDimensions.largest,
-                ),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.end,
-                  children: <Widget>[
-                    IconSquardWidget(
-                      colorIcon: AppColors.grayDarker,
-                      colorBackground: AppColors.white,
-                      icon: Icons.location_searching,
-                    ),
-                  ],
-                )),
-          ),
-          RouteCardWidget(),
-        ],
+      body: Container(
+        height: MediaQuery.of(context).size.height,
+        child: Stack(
+          children: <Widget>[
+            GoogleMap(
+              mapType: MapType.normal,
+              onMapCreated: _onMapCreated,
+              onCameraMove: (data) {
+                print(data);
+              },
+              onTap: (position) {
+                print(position);
+              },
+              initialCameraPosition: CameraPosition(
+                target: LatLng(lat, long),
+                zoom: 11.0,
+              ),
+            ),
+            SearchWidget(),
+            Positioned(
+              top: 450,
+              child: Container(
+                  width: MediaQuery.of(context).size.width,
+                  padding: const EdgeInsets.only(
+                    top: AppDimensions.largest,
+                    left: AppDimensions.largest,
+                    right: AppDimensions.largest,
+                  ),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.end,
+                    children: <Widget>[
+                      IconSquardWidget(
+                        colorIcon: AppColors.grayDarker,
+                        colorBackground: AppColors.white,
+                        icon: Icons.location_searching,
+                      ),
+                    ],
+                  )),
+            ),
+            RouteCardWidget(),
+          ],
+        ),
       ),
     );
   }
