@@ -93,9 +93,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/isad
 	android:name
 		ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:7:9-57
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:10:9-11:38
+ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:10:9-11:70
 	android:value
-		ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:11:13-36
+		ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:11:13-68
 	android:name
 		ADDED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:10:20-65
 activity#com.example.bank_app.MainActivity

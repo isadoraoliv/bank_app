@@ -22,7 +22,7 @@ dependencies:
   screen_utils: ^0.0.1
   line_icons: ^0.2.0
   carousel_slider: ^1.4.1
-  google_maps_flutter: ^0.5.25+2
+  google_maps_flutter: ^0.5.25+1
   permission: ^0.1.7
   geolocator: ^5.3.0
   flutter_icons:
@@ -45,6 +45,8 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - lib/assets/images/mastercard.png
+    - lib/assets/images/visa.png
+    - lib/assets/images/visa.svg 
     - lib/assets/images/confirm.png
 
   # To add custom fonts to your application, add a fonts section here,
