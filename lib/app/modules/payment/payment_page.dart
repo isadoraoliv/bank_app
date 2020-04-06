@@ -27,7 +27,8 @@ class _PaymentPageState extends ModularState<PaymentPage, PaymentController> {
             size: AppDimensions.iconMeduim,
           ),
           onPressed: () {
-            Navigator.popUntil(context, ModalRoute.withName('/'));
+            Navigator.pushNamedAndRemoveUntil(
+                context, '/', ModalRoute.withName('/'));
           },
         ),
         title: Text(
@@ -76,7 +77,6 @@ class _PaymentPageState extends ModularState<PaymentPage, PaymentController> {
                   colorText: AppColors.white,
                   colorButton: AppColors.blue,
                   radiusBorder: 8,
-                  onPress: '/welcome/',
                   height: MediaQuery.of(context).size.height * 0.07,
                 ),
               ],

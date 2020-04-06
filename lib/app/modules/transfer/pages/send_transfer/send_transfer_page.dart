@@ -31,7 +31,10 @@ class _SendTransferPageState
               color: AppColors.grayDark,
               size: AppDimensions.iconMeduim,
             ),
-            onPressed: () {}),
+            onPressed: () {
+              Navigator.pushNamedAndRemoveUntil(
+                  context, '/', ModalRoute.withName('/'));
+            }),
         title: Text(
           'Transfer',
           style: TextStyle(

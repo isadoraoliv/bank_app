@@ -16,7 +16,7 @@ class ButtonWidget extends StatelessWidget {
     @required this.colorText,
     @required this.colorButton,
     @required this.radiusBorder,
-    @required this.onPress,
+    this.onPress,
     @required this.height,
   }) : super(key: key);
 

@@ -1,4 +1,3 @@
-import 'package:bank_app/app/modules/home/home_module.dart';
 import 'package:bank_app/app/modules/payment/payment_controller.dart';
 import 'package:bank_app/app/modules/welcome/welcome_module.dart';
 import 'package:flutter_modular/flutter_modular.dart';

@@ -45,7 +45,6 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
         children: widget.modules
             .map((i) => RouterOutlet(
                   module: i,
-                  keepAlive: false,
                 ))
             .toList(),
       ),

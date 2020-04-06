@@ -198,6 +198,7 @@ class _WelcomePageState extends ModularState<WelcomePage, WelcomeController> {
                           icon: FontAwesome.shopping_bag,
                           color: AppColors.green,
                           text: "Make a Payment",
+                          onTap: '/payment/',
                         ),
                         SizedBox(
                           width: AppDimensions.small,

@@ -1,7 +1,9 @@
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
-import 'package:bank_app/app/modules/shared/widgets/card_credit_widget.dart';
+import 'package:bank_app/app/modules/shared/widgets/card_options_widget.dart';
+import 'package:bank_app/app/modules/shared/widgets/credit_card_list.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_icons/flutter_icons.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'card_controller.dart';
 
@@ -14,41 +16,6 @@ class CardPage extends StatefulWidget {
 }
 
 class _CardPageState extends ModularState<CardPage, CardController> {
-  PageController _controller;
-
-  List<Widget> cardList = [
-    CardCreditWidget(
-      validate: "03/20",
-      numberCard: "... .... 7 3 6 2",
-      value: "R\$ 2.151.20",
-      height: 300,
-      width: 600,
-      color: AppColors.blue,
-    ),
-    CardCreditWidget(
-      validate: "03/20",
-      numberCard: "... .... 7 3 6 2",
-      value: "R\$ 2.151.20",
-      height: 300,
-      width: 600,
-      color: AppColors.blue,
-    ),
-    CardCreditWidget(
-      validate: "03/20",
-      numberCard: "... .... 7 3 6 2",
-      value: "R\$ 2.151.20",
-      height: 300,
-      width: 600,
-      color: AppColors.blue,
-    ),
-  ];
-
-  @override
-  void initState() {
-    _controller = PageController(initialPage: 0, viewportFraction: 0.8);
-    super.initState();
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -95,42 +62,105 @@ class _CardPageState extends ModularState<CardPage, CardController> {
           ),
         ],
       ),
-      body: PageView.builder(
-        controller: _controller,
-        itemCount: cardList.length,
-        itemBuilder: (context, position) {
-          return cardSlider(position);
-        },
-      ),
-    );
-  }
-
-  cardSlider(int index) {
-    return AnimatedBuilder(
-      animation: _controller,
-      builder: (context, widget) {
-        double value = 1;
-        if (_controller.position.haveDimensions) {
-          value = _controller.page - index;
-          value = (1 - (value.abs() * 0.3)).clamp(0.0, 1.0);
-        }
-
-        return Column(
-          children: <Widget>[
-            SizedBox(
-              height: Curves.easeInOut.transform(value) * 210,
-              width: 800,
-              child: widget,
+      body: Stack(
+        children: <Widget>[
+          Container(
+            width: MediaQuery.of(context).size.width,
+            height: MediaQuery.of(context).size.height,
+            padding: const EdgeInsets.all(
+              AppDimensions.large,
             ),
-          ],
-        );
-      },
-      child: Container(
-        margin: EdgeInsets.only(
-          left: AppDimensions.small,
-          right: AppDimensions.small,
-        ),
-        child: cardList[index],
+            color: AppColors.whiteDark,
+            child: Column(
+              children: <Widget>[
+                Container(
+                  height: MediaQuery.of(context).size.height * 0.27,
+                  child: ListView(
+                    scrollDirection: Axis.horizontal,
+                    children: <Widget>[
+                      CreditCardList(
+                        value: '\$2.151.20',
+                        numberCard: '.... .... 7362',
+                        validate: '04/23',
+                        color: AppColors.blue,
+                      ),
+                      CreditCardList(
+                        value: '\$2.440.20',
+                        numberCard: '.... .... 4501',
+                        validate: '04/24',
+                        color: AppColors.green,
+                      ),
+                    ],
+                  ),
+                ),
+                SizedBox(
+                  height: AppDimensions.largest,
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    CardOptionsWidget(
+                      icon: FontAwesome.pie_chart,
+                      color: AppColors.yellow,
+                      text: 'Card Info',
+                      onTap: '/card_info/',
+                    ),
+                    SizedBox(
+                      width: AppDimensions.small,
+                    ),
+                    CardOptionsWidget(
+                      icon: FontAwesome.history,
+                      color: AppColors.blueLighter,
+                      text: 'History',
+                    ),
+                  ],
+                ),
+                SizedBox(
+                  height: AppDimensions.small,
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    CardOptionsWidget(
+                      icon: FontAwesome.edit,
+                      color: AppColors.blue,
+                      text: 'Withdraw',
+                    ),
+                    SizedBox(
+                      width: AppDimensions.small,
+                    ),
+                    CardOptionsWidget(
+                      icon: FontAwesome.money,
+                      color: AppColors.purple,
+                      text: 'Converter',
+                    ),
+                  ],
+                ),
+                SizedBox(
+                  height: AppDimensions.small,
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    CardOptionsWidget(
+                      icon: FontAwesome.edit,
+                      color: AppColors.red,
+                      text: 'Loans',
+                    ),
+                    SizedBox(
+                      width: AppDimensions.small,
+                    ),
+                    CardOptionsWidget(
+                      icon: Icons.settings,
+                      color: AppColors.green,
+                      text: 'Card Options',
+                    ),
+                  ],
+                ),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }

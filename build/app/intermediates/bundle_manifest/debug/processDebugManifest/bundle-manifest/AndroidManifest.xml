@@ -27,7 +27,7 @@
         android:label="bank_app" >
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="API KEY" />
+            android:value="AIzaSyA5MKnQj00PAYLIY78uigXmP2167LQtqIE" />
 
         <activity
             android:name="com.example.bank_app.MainActivity"

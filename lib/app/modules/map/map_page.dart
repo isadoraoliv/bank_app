@@ -1,6 +1,4 @@
-import 'dart:async';
-
-import 'package:bank_app/app/modules/map/widgets/card_route_widget.dart';
+import 'package:bank_app/app/modules/map/widgets/route_card_widget.dart';
 import 'package:bank_app/app/modules/map/widgets/search_widget.dart';
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';

@@ -1,6 +1,5 @@
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
-import 'package:bank_app/app/modules/shared/widgets/button_widget.dart';
 import 'package:bank_app/app/modules/shared/widgets/card_credit_widget.dart';
 import 'package:bank_app/app/modules/shared/widgets/circular_avatar_widget.dart';
 import 'package:carousel_slider/carousel_slider.dart';
@@ -32,8 +31,8 @@ class _TransferPageState
             size: AppDimensions.iconMeduim,
           ),
           onPressed: () {
-            Modular.to
-                .pushNamedAndRemoveUntil('/welcome', ModalRoute.withName('/'));
+            Navigator.pushNamedAndRemoveUntil(
+                context, '/', ModalRoute.withName('/'));
           },
         ),
         title: Text(
@@ -200,19 +199,15 @@ class _TransferPageState
                     ),
                   ),
                 ),
-
-                ///todo
-                /*SizedBox(
-                  height: AppDimensions.largest,
-                ),*/
-                ButtonWidget(
-                  text: "Next",
-                  colorText: AppColors.white,
-                  colorButton: AppColors.blue,
-                  radiusBorder: 8,
-                  onPress: '/send_transfer/',
-                  height: MediaQuery.of(context).size.height * 0.07,
-                )
+                SizedBox(
+                  height: AppDimensions.medium,
+                ),
+                RaisedButton(
+                  child: Text('teste'),
+                  onPressed: () {
+                    Navigator.pushNamed(context, '/send');
+                  },
+                ),
               ],
             ),
           ),

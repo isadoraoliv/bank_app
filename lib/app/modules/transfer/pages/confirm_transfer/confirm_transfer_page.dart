@@ -1,9 +1,7 @@
 import 'package:bank_app/app/modules/shared/utils/app_colors.dart';
 import 'package:bank_app/app/modules/shared/utils/app_dimensions.dart';
 import 'package:bank_app/app/modules/shared/widgets/button_widget.dart';
-import 'package:bank_app/app/modules/shared/widgets/circular_avatar_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'confirm_transfer_controller.dart';
 

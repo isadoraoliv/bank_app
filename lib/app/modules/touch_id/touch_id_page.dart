@@ -15,8 +15,6 @@ class TouchIdPage extends StatefulWidget {
 }
 
 class _TouchIdPageState extends ModularState<TouchIdPage, TouchIdController> {
-  //use 'controller' variable to access controller
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

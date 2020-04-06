@@ -18,7 +18,7 @@ class AppModule extends MainModule {
   List<Router> get routers => [
         Router('/', module: LoginModule()),
         Router('/home', module: HomeModule()),
-        Router('/send_transfer', module: SendTransferModule()),
+        Router('/send', module: SendTransferModule()),
         Router('/confirm_transfer', module: ConfirmTransferModule()),
       ];
 

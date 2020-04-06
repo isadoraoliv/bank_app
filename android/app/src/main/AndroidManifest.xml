@@ -8,7 +8,7 @@
         android:label="bank_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="API KEY"/>
+            android:value="AIzaSyA5MKnQj00PAYLIY78uigXmP2167LQtqIE"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

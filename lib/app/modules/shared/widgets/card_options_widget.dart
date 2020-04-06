@@ -63,7 +63,7 @@ class CardOptionsWidget extends StatelessWidget {
                         ),
                       ),
                     ),
-                  )
+                  ),
                 ],
               ),
             ),
