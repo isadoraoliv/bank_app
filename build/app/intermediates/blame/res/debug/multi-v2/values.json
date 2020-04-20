@@ -61,6 +61,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "238,401",
+                        "endColumns": "63,166",
+                        "endOffsets": "301,567"
+                    },
+                    "to": {
+                        "startLines": "85,95",
+                        "startColumns": "4,4",
+                        "startOffsets": "5320,6498",
+                        "endColumns": "67,166",
+                        "endOffsets": "5383,6660"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
@@ -77,23 +94,6 @@
                         "endLines": "110,113",
                         "endColumns": "12,12",
                         "endOffsets": "8154,8319"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "238,401",
-                        "endColumns": "63,166",
-                        "endOffsets": "301,567"
-                    },
-                    "to": {
-                        "startLines": "85,95",
-                        "startColumns": "4,4",
-                        "startOffsets": "5320,6498",
-                        "endColumns": "67,166",
-                        "endOffsets": "5383,6660"
                     }
                 },
                 {

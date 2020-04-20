@@ -5,18 +5,21 @@ INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/
 INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:1:1-47:12
 INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:1:1-47:12
 MERGED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml:1:1-47:12
-MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:geolocator] /Users/isadoraoliv/Documents/GitHub/bank_app/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:google_maps_flutter] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_plugin_android_lifecycle] /Users/isadoraoliv/Documents/GitHub/bank_app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_web] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_macos] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/e49fed8d39766f1f36a6cb127fe644ae/play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/960a983f47efbf63a0e93f24f143c829/play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/60d6aea2c62c1a835daa005c0244039e/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/d9cecb6a424f4f045529b7d36afd631e/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/f36c902030f153ddf12664c43723eed7/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/3d6fb91c12724d3129ee0149114b05dd/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/83bd9442d9c8c6023358fcdc6714fbe4/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -78,8 +81,8 @@ MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Us
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/60d6aea2c62c1a835daa005c0244039e/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/d9cecb6a424f4f045529b7d36afd631e/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/d9cecb6a424f4f045529b7d36afd631e/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/f9fa4632f26ccdf6c9d29ef02caf2303/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -144,18 +147,24 @@ uses-sdk
 INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/AndroidManifest.xml
-MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:geolocator] /Users/isadoraoliv/Documents/GitHub/bank_app/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:geolocator] /Users/isadoraoliv/Documents/GitHub/bank_app/build/geolocator/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_maps_flutter] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:google_maps_flutter] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /Users/isadoraoliv/Documents/GitHub/bank_app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] /Users/isadoraoliv/Documents/GitHub/bank_app/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:google_api_availability] /Users/isadoraoliv/Documents/GitHub/bank_app/build/google_api_availability/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_web] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_macos] /Users/isadoraoliv/Documents/GitHub/bank_app/build/shared_preferences_macos/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/isadoraoliv/Documents/GitHub/bank_app/build/location_permissions/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission] /Users/isadoraoliv/Documents/GitHub/bank_app/build/permission/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/e49fed8d39766f1f36a6cb127fe644ae/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/e49fed8d39766f1f36a6cb127fe644ae/play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/960a983f47efbf63a0e93f24f143c829/play-services-location-17.0.0/AndroidManifest.xml:5:5-44
@@ -166,8 +175,8 @@ MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Us
 MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/60d6aea2c62c1a835daa005c0244039e/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/d9cecb6a424f4f045529b7d36afd631e/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/d9cecb6a424f4f045529b7d36afd631e/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/f36c902030f153ddf12664c43723eed7/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/f36c902030f153ddf12664c43723eed7/fragment-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/3d6fb91c12724d3129ee0149114b05dd/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
@@ -253,8 +262,8 @@ ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/isadoraoliv
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

@@ -4,7 +4,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-vi/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-vi/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

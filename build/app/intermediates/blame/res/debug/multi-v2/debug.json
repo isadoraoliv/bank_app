@@ -4,23 +4,6 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-my_values-my.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-my/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "212",
-                        "endOffsets": "459"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1291",
-                        "endColumns": "212",
-                        "endOffsets": "1499"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-my/values-my.xml",
                     "from": {
                         "startLines": "2",
@@ -35,6 +18,23 @@
                         "startOffsets": "2948",
                         "endColumns": "100",
                         "endOffsets": "3044"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-my/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "212",
+                        "endOffsets": "459"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1291",
+                        "endColumns": "212",
+                        "endOffsets": "1499"
                     }
                 },
                 {
@@ -59,23 +59,6 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-el_values-el.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-el/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "222",
-                        "endOffsets": "469"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1332",
-                        "endColumns": "222",
-                        "endOffsets": "1550"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-el/values-el.xml",
                     "from": {
@@ -109,29 +92,29 @@
                         "endColumns": "112,217,133,112,239,126,147,133,247,109,200,130,236,174,98,91,111",
                         "endOffsets": "213,431,565,678,918,1045,1193,1327,1798,1908,2109,2240,2477,2652,2751,2843,2955"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-el/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "222",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1332",
+                        "endColumns": "222",
+                        "endOffsets": "1550"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ro/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "203",
-                        "endOffsets": "450"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1283",
-                        "endColumns": "203",
-                        "endOffsets": "1482"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ro/values.xml",
                     "from": {
@@ -165,29 +148,29 @@
                         "endColumns": "100",
                         "endOffsets": "2950"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ro/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "203",
+                        "endOffsets": "450"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1283",
+                        "endColumns": "203",
+                        "endOffsets": "1482"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sv/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "206",
-                        "endOffsets": "453"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1257",
-                        "endColumns": "206",
-                        "endOffsets": "1459"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-sv/values-sv.xml",
                     "from": {
@@ -203,6 +186,23 @@
                         "startOffsets": "2800",
                         "endColumns": "100",
                         "endOffsets": "2896"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "206",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1257",
+                        "endColumns": "206",
+                        "endOffsets": "1459"
                     }
                 },
                 {
@@ -228,7 +228,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-de_values-de.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-de/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-de/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -301,6 +301,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-eu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "200",
+                        "endOffsets": "447"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1282",
+                        "endColumns": "200",
+                        "endOffsets": "1478"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-eu/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -316,23 +333,6 @@
                         "endColumns": "105,207,127,110,205,128,152,135,242,109,197,131,226,188,95,94,117",
                         "endOffsets": "206,414,542,653,859,988,1141,1277,1721,1831,2029,2161,2388,2577,2673,2768,2886"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-eu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "200",
-                        "endOffsets": "447"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1282",
-                        "endColumns": "200",
-                        "endOffsets": "1478"
-                    }
                 }
             ]
         },
@@ -340,7 +340,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-pt-rBR/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-pt-rBR/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -413,23 +413,6 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-mn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "208",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1271",
-                        "endColumns": "208",
-                        "endOffsets": "1475"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-mn/values-mn.xml",
                     "from": {
                         "startLines": "2",
@@ -444,6 +427,23 @@
                         "startOffsets": "2809",
                         "endColumns": "100",
                         "endOffsets": "2905"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-mn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1271",
+                        "endColumns": "208",
+                        "endOffsets": "1475"
                     }
                 }
             ]
@@ -469,6 +469,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ne/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "222",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1309",
+                        "endColumns": "222",
+                        "endOffsets": "1527"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-ne/values-ne.xml",
                     "from": {
                         "startLines": "2",
@@ -483,23 +500,6 @@
                         "startOffsets": "2933",
                         "endColumns": "100",
                         "endOffsets": "3029"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ne/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "222",
-                        "endOffsets": "469"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1309",
-                        "endColumns": "222",
-                        "endOffsets": "1527"
                     }
                 }
             ]
@@ -525,7 +525,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-zh-rCN/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-zh-rCN/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -621,6 +621,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "238,401",
+                        "endColumns": "63,166",
+                        "endOffsets": "301,567"
+                    },
+                    "to": {
+                        "startLines": "85,95",
+                        "startColumns": "4,4",
+                        "startOffsets": "5320,6498",
+                        "endColumns": "67,166",
+                        "endOffsets": "5383,6660"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/Documents/GitHub/bank_app/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
@@ -637,23 +654,6 @@
                         "endLines": "110,113",
                         "endColumns": "12,12",
                         "endOffsets": "8154,8319"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values/values.xml",
-                    "from": {
-                        "startLines": "4,7",
-                        "startColumns": "0,0",
-                        "startOffsets": "238,401",
-                        "endColumns": "63,166",
-                        "endOffsets": "301,567"
-                    },
-                    "to": {
-                        "startLines": "85,95",
-                        "startColumns": "4,4",
-                        "startOffsets": "5320,6498",
-                        "endColumns": "67,166",
-                        "endOffsets": "5383,6660"
                     }
                 },
                 {
@@ -681,7 +681,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-en-rGB/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-en-rGB/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -737,7 +737,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-vi/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-vi/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -827,7 +827,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-bg/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-bg/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -866,7 +866,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -905,6 +905,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-it_values-it.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-it/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "194",
+                        "endOffsets": "441"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "194",
+                        "endOffsets": "1452"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-it/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -937,46 +954,12 @@
                         "endColumns": "100",
                         "endOffsets": "2912"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-it/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "194",
-                        "endOffsets": "441"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "194",
-                        "endOffsets": "1452"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-gu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "205",
-                        "endOffsets": "452"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1245",
-                        "endColumns": "205",
-                        "endOffsets": "1446"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-gu/values-gu.xml",
                     "from": {
@@ -1010,12 +993,46 @@
                         "endColumns": "109,197,126,113,196,123,140,128,206,109,194,126,201,179,90,95,110",
                         "endOffsets": "210,408,535,649,846,970,1111,1240,1653,1763,1958,2085,2287,2467,2558,2654,2765"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-gu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "205",
+                        "endOffsets": "452"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1245",
+                        "endColumns": "205",
+                        "endOffsets": "1446"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "209",
+                        "endOffsets": "456"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1275",
+                        "endColumns": "209",
+                        "endOffsets": "1480"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-pa/values-pa.xml",
                     "from": {
@@ -1049,46 +1066,12 @@
                         "endColumns": "108,204,131,110,205,130,142,132,220,110,203,133,211,190,95,95,110",
                         "endOffsets": "209,414,546,657,863,994,1137,1270,1701,1812,2016,2150,2362,2553,2649,2745,2856"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-pa/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "209",
-                        "endOffsets": "456"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1275",
-                        "endColumns": "209",
-                        "endOffsets": "1480"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-bn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "210",
-                        "endOffsets": "457"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1245",
-                        "endColumns": "210",
-                        "endOffsets": "1451"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-bn/values.xml",
                     "from": {
@@ -1104,6 +1087,23 @@
                         "startOffsets": "105,216,407,537,650,846,970,1112,1456,1660,1771,1958,2088,2281,2459,2549,2646",
                         "endColumns": "110,190,129,112,195,123,141,132,203,110,186,129,192,177,89,96,118",
                         "endOffsets": "211,402,532,645,841,965,1107,1240,1655,1766,1953,2083,2276,2454,2544,2641,2760"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-bn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1245",
+                        "endColumns": "210",
+                        "endOffsets": "1451"
                     }
                 },
                 {
@@ -1128,6 +1128,23 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "197",
+                        "endOffsets": "444"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "197",
+                        "endOffsets": "1455"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-sk/values-sk.xml",
                     "from": {
@@ -1161,23 +1178,6 @@
                         "endColumns": "107,191,125,111,214,129,142,130,227,112,200,131,221,193,97,96,115",
                         "endOffsets": "208,400,526,638,853,983,1126,1257,1683,1796,1997,2129,2351,2545,2643,2740,2856"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "197",
-                        "endOffsets": "444"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "197",
-                        "endOffsets": "1455"
-                    }
                 }
             ]
         },
@@ -1202,7 +1202,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sq/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sq/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -1258,6 +1258,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-lv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "224",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1268",
+                        "endColumns": "224",
+                        "endOffsets": "1488"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-lv/values-lv.xml",
                     "from": {
                         "startLines": "2",
@@ -1273,29 +1290,29 @@
                         "endColumns": "100",
                         "endOffsets": "2994"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-lv/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "224",
-                        "endOffsets": "471"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1268",
-                        "endColumns": "224",
-                        "endOffsets": "1488"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-af_values-af.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-af/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1257",
+                        "endColumns": "201",
+                        "endOffsets": "1454"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-af/values.xml",
                     "from": {
@@ -1329,46 +1346,12 @@
                         "endColumns": "100",
                         "endOffsets": "2886"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-af/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1257",
-                        "endColumns": "201",
-                        "endOffsets": "1454"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-mk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "195",
-                        "endOffsets": "442"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1282",
-                        "endColumns": "195",
-                        "endOffsets": "1473"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-mk/values-mk.xml",
                     "from": {
@@ -1402,6 +1385,23 @@
                         "endColumns": "108,192,134,111,203,134,149,138,215,108,196,134,211,188,98,93,107",
                         "endOffsets": "209,402,537,649,853,988,1138,1277,1689,1798,1995,2130,2342,2531,2630,2724,2832"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-mk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "195",
+                        "endOffsets": "442"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1282",
+                        "endColumns": "195",
+                        "endOffsets": "1473"
+                    }
                 }
             ]
         },
@@ -1426,23 +1426,6 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-is/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "187",
-                        "endOffsets": "434"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1237",
-                        "endColumns": "187",
-                        "endOffsets": "1420"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-is/values-is.xml",
                     "from": {
                         "startLines": "2",
@@ -1457,6 +1440,23 @@
                         "startOffsets": "2742",
                         "endColumns": "100",
                         "endOffsets": "2838"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-is/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "187",
+                        "endOffsets": "434"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1237",
+                        "endColumns": "187",
+                        "endOffsets": "1420"
                     }
                 }
             ]
@@ -1515,7 +1515,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-si/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-si/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -1554,6 +1554,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-km/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "207",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "207",
+                        "endOffsets": "1465"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-km/values-km.xml",
                     "from": {
                         "startLines": "2",
@@ -1569,46 +1586,12 @@
                         "endColumns": "100",
                         "endOffsets": "2900"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-km/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "207",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "207",
-                        "endOffsets": "1465"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ky/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "220",
-                        "endOffsets": "467"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1250",
-                        "endColumns": "220",
-                        "endOffsets": "1466"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ky/values.xml",
                     "from": {
@@ -1624,6 +1607,23 @@
                         "startOffsets": "105,213,394,525,634,838,967,1112,1471,1699,1808,1989,2121,2317,2514,2608,2698",
                         "endColumns": "107,180,130,108,203,128,144,137,227,108,180,131,195,196,93,89,106",
                         "endOffsets": "208,389,520,629,833,962,1107,1245,1694,1803,1984,2116,2312,2509,2603,2693,2800"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ky/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "220",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1250",
+                        "endColumns": "220",
+                        "endOffsets": "1466"
                     }
                 },
                 {
@@ -1648,6 +1648,23 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-te_values-te.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-te/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1239",
+                        "endColumns": "198",
+                        "endOffsets": "1433"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-te/values.xml",
                     "from": {
@@ -1681,46 +1698,12 @@
                         "endColumns": "100",
                         "endOffsets": "2878"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-te/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1239",
-                        "endColumns": "198",
-                        "endOffsets": "1433"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-pt-rPT/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1294",
-                        "endColumns": "203",
-                        "endOffsets": "1493"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
@@ -1753,6 +1736,23 @@
                         "startOffsets": "105,212,407,537,647,874,1004,1156,1498,1745,1855,2056,2189,2407,2615,2713,2812",
                         "endColumns": "106,194,129,109,226,129,151,137,246,109,200,132,217,207,97,98,115",
                         "endOffsets": "207,402,532,642,869,999,1151,1289,1740,1850,2051,2184,2402,2610,2708,2807,2923"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1294",
+                        "endColumns": "203",
+                        "endOffsets": "1493"
                     }
                 }
             ]
@@ -1795,7 +1795,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-lo/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-lo/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -1816,23 +1816,6 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-am_values-am.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-am/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1188",
-                        "endColumns": "190",
-                        "endOffsets": "1374"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-am/values.xml",
                     "from": {
@@ -1866,29 +1849,29 @@
                         "endColumns": "100",
                         "endOffsets": "2696"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-am/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1188",
+                        "endColumns": "190",
+                        "endOffsets": "1374"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-mr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1243",
-                        "endColumns": "201",
-                        "endOffsets": "1440"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-mr/values-mr.xml",
                     "from": {
@@ -1922,12 +1905,46 @@
                         "endColumns": "108,198,124,113,203,122,137,125,208,109,184,125,197,182,89,95,109",
                         "endOffsets": "209,408,533,647,851,974,1112,1238,1649,1759,1944,2070,2268,2451,2541,2637,2747"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-mr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1243",
+                        "endColumns": "201",
+                        "endOffsets": "1440"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-es/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "218",
+                        "endOffsets": "465"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1299",
+                        "endColumns": "218",
+                        "endOffsets": "1513"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-es/values-es.xml",
                     "from": {
@@ -1943,23 +1960,6 @@
                         "startOffsets": "2931",
                         "endColumns": "100",
                         "endOffsets": "3027"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-es/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "218",
-                        "endOffsets": "465"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1299",
-                        "endColumns": "218",
-                        "endOffsets": "1513"
                     }
                 },
                 {
@@ -2002,6 +2002,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1217",
+                        "endColumns": "188",
+                        "endOffsets": "1401"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ar/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -2017,29 +2034,29 @@
                         "endColumns": "105,175,123,106,196,129,140,130,195,105,180,123,197,175,93,95,112",
                         "endOffsets": "206,382,506,613,810,940,1081,1212,1597,1703,1884,2008,2206,2382,2476,2572,2685"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ar/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "188",
-                        "endOffsets": "435"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1217",
-                        "endColumns": "188",
-                        "endOffsets": "1401"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-or_values-or.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-or/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1302",
+                        "endColumns": "198",
+                        "endOffsets": "1496"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-or/values-or.xml",
                     "from": {
@@ -2072,23 +2089,6 @@
                         "startOffsets": "105,218,411,546,665,880,1018,1163,1501,1728,1843,2035,2171,2382,2570,2665,2767",
                         "endColumns": "112,192,134,118,214,137,144,138,226,114,191,135,210,187,94,101,115",
                         "endOffsets": "213,406,541,660,875,1013,1158,1297,1723,1838,2030,2166,2377,2565,2660,2762,2878"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-or/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1302",
-                        "endColumns": "198",
-                        "endOffsets": "1496"
                     }
                 }
             ]
@@ -2131,7 +2131,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-zh-rHK/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-zh-rHK/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -2153,23 +2153,6 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ru/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "215",
-                        "endOffsets": "462"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1262",
-                        "endColumns": "215",
-                        "endOffsets": "1473"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ru/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -2184,6 +2167,23 @@
                         "startOffsets": "105,214,412,540,652,853,984,1129,1478,1718,1827,2021,2149,2375,2563,2662,2752",
                         "endColumns": "108,197,127,111,200,130,144,132,239,108,193,127,225,187,98,89,114",
                         "endOffsets": "209,407,535,647,848,979,1124,1257,1713,1822,2016,2144,2370,2558,2657,2747,2862"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ru/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "215",
+                        "endOffsets": "462"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1262",
+                        "endColumns": "215",
+                        "endOffsets": "1473"
                     }
                 },
                 {
@@ -2226,7 +2226,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-gl/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-gl/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -2282,7 +2282,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-zh-rTW/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-zh-rTW/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -2321,6 +2321,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ko/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "179",
+                        "endOffsets": "426"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1158",
+                        "endColumns": "179",
+                        "endOffsets": "1333"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-ko/values-ko.xml",
                     "from": {
                         "startLines": "2",
@@ -2335,23 +2352,6 @@
                         "startOffsets": "2541",
                         "endColumns": "100",
                         "endOffsets": "2637"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ko/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "179",
-                        "endOffsets": "426"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1158",
-                        "endColumns": "179",
-                        "endOffsets": "1333"
                     }
                 },
                 {
@@ -2377,7 +2377,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-lt/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-lt/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -2433,6 +2433,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "219",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1326",
+                        "endColumns": "219",
+                        "endOffsets": "1541"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-fr-rCA/values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
@@ -2447,23 +2464,6 @@
                         "startOffsets": "3006",
                         "endColumns": "100",
                         "endOffsets": "3102"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-fr-rCA/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "219",
-                        "endOffsets": "470"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1326",
-                        "endColumns": "219",
-                        "endOffsets": "1541"
                     }
                 },
                 {
@@ -2488,6 +2488,23 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ta/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "224",
+                        "endOffsets": "471"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1247",
+                        "endColumns": "224",
+                        "endOffsets": "1467"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ta/values.xml",
                     "from": {
@@ -2521,29 +2538,29 @@
                         "endColumns": "100",
                         "endOffsets": "2934"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ta/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "224",
-                        "endOffsets": "471"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1247",
-                        "endColumns": "224",
-                        "endOffsets": "1467"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-in_values-in.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-in/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1269",
+                        "endColumns": "190",
+                        "endOffsets": "1455"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-in/values-in.xml",
                     "from": {
@@ -2559,23 +2576,6 @@
                         "startOffsets": "2795",
                         "endColumns": "100",
                         "endOffsets": "2891"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-in/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "190",
-                        "endOffsets": "437"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1269",
-                        "endColumns": "190",
-                        "endOffsets": "1455"
                     }
                 },
                 {
@@ -2600,23 +2600,6 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-iw/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "176",
-                        "endOffsets": "423"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1228",
-                        "endColumns": "176",
-                        "endOffsets": "1400"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-iw/values-iw.xml",
                     "from": {
@@ -2650,12 +2633,46 @@
                         "endColumns": "104,185,126,105,197,126,141,131,194,104,175,124,192,174,89,89,109",
                         "endOffsets": "205,391,518,624,822,949,1091,1223,1595,1700,1876,2001,2194,2369,2459,2549,2659"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-iw/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "176",
+                        "endOffsets": "423"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1228",
+                        "endColumns": "176",
+                        "endOffsets": "1400"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-bs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "199",
+                        "endOffsets": "446"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1255",
+                        "endColumns": "199",
+                        "endOffsets": "1450"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-bs/values.xml",
                     "from": {
@@ -2689,46 +2706,12 @@
                         "endColumns": "100",
                         "endOffsets": "2886"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-bs/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "199",
-                        "endOffsets": "446"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1255",
-                        "endColumns": "199",
-                        "endOffsets": "1450"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-as_values-as.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-as/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "184",
-                        "endOffsets": "431"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1235",
-                        "endColumns": "184",
-                        "endOffsets": "1415"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-as/values.xml",
                     "from": {
@@ -2762,6 +2745,23 @@
                         "endColumns": "100",
                         "endOffsets": "2810"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-as/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "184",
+                        "endOffsets": "431"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1235",
+                        "endColumns": "184",
+                        "endOffsets": "1415"
+                    }
                 }
             ]
         },
@@ -2786,23 +2786,6 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-fi/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "208",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1256",
-                        "endColumns": "208",
-                        "endOffsets": "1460"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-fi/values-fi.xml",
                     "from": {
                         "startLines": "2",
@@ -2818,12 +2801,46 @@
                         "endColumns": "100",
                         "endOffsets": "2861"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-fi/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1256",
+                        "endColumns": "208",
+                        "endOffsets": "1460"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-tl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1322",
+                        "endColumns": "204",
+                        "endOffsets": "1522"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-tl/values.xml",
                     "from": {
@@ -2857,46 +2874,12 @@
                         "endColumns": "100",
                         "endOffsets": "3053"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-tl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1322",
-                        "endColumns": "204",
-                        "endOffsets": "1522"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ka/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1273",
-                        "endColumns": "201",
-                        "endOffsets": "1470"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ka/values.xml",
                     "from": {
@@ -2930,12 +2913,46 @@
                         "endColumns": "100",
                         "endOffsets": "2910"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ka/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1273",
+                        "endColumns": "201",
+                        "endOffsets": "1470"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1265",
+                        "endColumns": "198",
+                        "endOffsets": "1459"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-sl/values.xml",
                     "from": {
@@ -2969,23 +2986,6 @@
                         "endColumns": "100",
                         "endOffsets": "2914"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1265",
-                        "endColumns": "198",
-                        "endOffsets": "1459"
-                    }
                 }
             ]
         },
@@ -2993,7 +2993,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-nb/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-nb/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3066,6 +3066,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-fr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "223",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1326",
+                        "endColumns": "223",
+                        "endOffsets": "1545"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
@@ -3080,23 +3097,6 @@
                         "startOffsets": "2996",
                         "endColumns": "100",
                         "endOffsets": "3092"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-fr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "223",
-                        "endOffsets": "470"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1326",
-                        "endColumns": "223",
-                        "endOffsets": "1545"
                     }
                 }
             ]
@@ -3122,7 +3122,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-hy/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-hy/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3178,6 +3178,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-uz/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "208",
+                        "endOffsets": "455"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1260",
+                        "endColumns": "208",
+                        "endOffsets": "1464"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-uz/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -3192,23 +3209,6 @@
                         "startOffsets": "105,212,394,525,636,840,975,1125,1469,1700,1810,2000,2134,2347,2539,2635,2726",
                         "endColumns": "106,181,130,110,203,134,149,134,230,109,189,133,212,191,95,90,108",
                         "endOffsets": "207,389,520,631,835,970,1120,1255,1695,1805,1995,2129,2342,2534,2630,2721,2830"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-uz/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "208",
-                        "endOffsets": "455"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1260",
-                        "endColumns": "208",
-                        "endOffsets": "1464"
                     }
                 }
             ]
@@ -3232,7 +3232,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-hi/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-hi/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3288,7 +3288,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-es-rUS/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-es-rUS/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3359,6 +3359,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "254",
+                        "endColumns": "188",
+                        "endOffsets": "442"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1256",
+                        "endColumns": "188",
+                        "endOffsets": "1440"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
                     "from": {
                         "startLines": "2",
@@ -3391,46 +3408,12 @@
                         "endColumns": "107,187,127,111,212,128,141,130,207,108,190,128,207,171,97,94,108",
                         "endOffsets": "208,396,524,636,849,978,1120,1251,1648,1757,1948,2077,2285,2457,2555,2650,2759"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-b+sr+Latn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "254",
-                        "endColumns": "188",
-                        "endOffsets": "442"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1256",
-                        "endColumns": "188",
-                        "endOffsets": "1440"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ja/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "180",
-                        "endOffsets": "427"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1181",
-                        "endColumns": "180",
-                        "endOffsets": "1357"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ja/values.xml",
                     "from": {
@@ -3446,6 +3429,23 @@
                         "startOffsets": "105,211,377,499,607,796,918,1053,1362,1553,1656,1820,1941,2120,2270,2360,2449",
                         "endColumns": "105,165,121,107,188,121,134,127,190,102,163,120,178,149,89,88,99",
                         "endOffsets": "206,372,494,602,791,913,1048,1176,1548,1651,1815,1936,2115,2265,2355,2444,2544"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ja/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "180",
+                        "endOffsets": "427"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1181",
+                        "endColumns": "180",
+                        "endOffsets": "1357"
                     }
                 },
                 {
@@ -3488,7 +3488,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ca/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ca/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3527,7 +3527,7 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sw/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3583,6 +3583,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-cs/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1257",
+                        "endColumns": "201",
+                        "endOffsets": "1454"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "2",
@@ -3615,23 +3632,6 @@
                         "endColumns": "107,191,126,111,211,128,141,129,233,112,194,129,219,184,97,96,114",
                         "endOffsets": "208,400,527,639,851,980,1122,1252,1688,1801,1996,2126,2346,2531,2629,2726,2841"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-cs/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1257",
-                        "endColumns": "201",
-                        "endOffsets": "1454"
-                    }
                 }
             ]
         },
@@ -3656,6 +3656,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-sr/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "188",
+                        "endOffsets": "435"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1256",
+                        "endColumns": "188",
+                        "endOffsets": "1440"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-sr/values-sr.xml",
                     "from": {
                         "startLines": "2",
@@ -3671,29 +3688,29 @@
                         "endColumns": "100",
                         "endOffsets": "2860"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-sr/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "188",
-                        "endOffsets": "435"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1256",
-                        "endColumns": "188",
-                        "endOffsets": "1440"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-kn/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1271",
+                        "endColumns": "204",
+                        "endOffsets": "1471"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-kn/values.xml",
                     "from": {
@@ -3709,23 +3726,6 @@
                         "startOffsets": "105,218,420,555,672,874,1005,1143,1476,1685,1800,1991,2128,2332,2519,2618,2711",
                         "endColumns": "112,201,134,116,201,130,137,127,208,114,190,136,203,186,98,92,113",
                         "endOffsets": "213,415,550,667,869,1000,1138,1266,1680,1795,1986,2123,2327,2514,2613,2706,2820"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-kn/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1271",
-                        "endColumns": "204",
-                        "endOffsets": "1471"
                     }
                 },
                 {
@@ -3751,6 +3751,23 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat",
             "map": [
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "235",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1343",
+                        "endColumns": "235",
+                        "endOffsets": "1574"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-hu/values-hu.xml",
                     "from": {
                         "startLines": "2",
@@ -3765,23 +3782,6 @@
                         "startOffsets": "3022",
                         "endColumns": "100",
                         "endOffsets": "3118"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-hu/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "235",
-                        "endOffsets": "482"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1343",
-                        "endColumns": "235",
-                        "endOffsets": "1574"
                     }
                 },
                 {
@@ -3806,6 +3806,23 @@
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-az_values-az.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "220",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1275",
+                        "endColumns": "220",
+                        "endOffsets": "1491"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-az/values.xml",
                     "from": {
@@ -3838,23 +3855,6 @@
                         "startOffsets": "2840",
                         "endColumns": "100",
                         "endOffsets": "2936"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-az/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "220",
-                        "endOffsets": "467"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1275",
-                        "endColumns": "220",
-                        "endOffsets": "1491"
                     }
                 }
             ]
@@ -3897,7 +3897,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ml/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ml/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -3936,6 +3936,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "185",
+                        "endOffsets": "432"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1258",
+                        "endColumns": "185",
+                        "endOffsets": "1439"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-da/values-da.xml",
                     "from": {
                         "startLines": "2",
@@ -3950,23 +3967,6 @@
                         "startOffsets": "2796",
                         "endColumns": "100",
                         "endOffsets": "2892"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-da/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "185",
-                        "endOffsets": "432"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1258",
-                        "endColumns": "185",
-                        "endOffsets": "1439"
                     }
                 }
             ]
@@ -3992,7 +3992,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-zu/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-zu/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -4048,23 +4048,6 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-pl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1253",
-                        "endColumns": "198",
-                        "endOffsets": "1447"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-pl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -4079,6 +4062,23 @@
                         "startOffsets": "105,211,411,535,647,857,984,1125,1452,1682,1793,1999,2129,2347,2538,2637,2733",
                         "endColumns": "105,199,123,111,209,126,140,127,229,110,205,129,217,190,98,95,112",
                         "endOffsets": "206,406,530,642,852,979,1120,1248,1677,1788,1994,2124,2342,2533,2632,2728,2841"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1253",
+                        "endColumns": "198",
+                        "endOffsets": "1447"
                     }
                 }
             ]
@@ -4121,7 +4121,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-hr/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-hr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -4177,7 +4177,7 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-tr/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-tr/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -4231,6 +4231,23 @@
                     }
                 },
                 {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-uk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1274",
+                        "endColumns": "204",
+                        "endOffsets": "1474"
+                    }
+                },
+                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-uk/values-uk.xml",
                     "from": {
                         "startLines": "2",
@@ -4246,46 +4263,12 @@
                         "endColumns": "100",
                         "endOffsets": "2916"
                     }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-uk/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1274",
-                        "endColumns": "204",
-                        "endOffsets": "1474"
-                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-th_values-th.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-th/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "187",
-                        "endOffsets": "434"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1233",
-                        "endColumns": "187",
-                        "endOffsets": "1416"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-th/values-th.xml",
                     "from": {
@@ -4301,6 +4284,23 @@
                         "startOffsets": "2718",
                         "endColumns": "100",
                         "endOffsets": "2814"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-th/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "187",
+                        "endOffsets": "434"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1233",
+                        "endColumns": "187",
+                        "endOffsets": "1416"
                     }
                 },
                 {
@@ -4341,23 +4341,6 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ms/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "204",
-                        "endOffsets": "451"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1309",
-                        "endColumns": "204",
-                        "endOffsets": "1509"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-ms/values-ms.xml",
                     "from": {
                         "startLines": "2",
@@ -4390,14 +4373,9 @@
                         "endColumns": "107,204,131,107,230,133,149,135,243,110,205,136,229,204,96,93,111",
                         "endOffsets": "208,413,545,653,884,1018,1168,1304,1753,1864,2070,2207,2437,2642,2739,2833,2945"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
-            "map": [
+                },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-be/values.xml",
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ms/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -4408,11 +4386,16 @@
                     "to": {
                         "startLines": "10",
                         "startColumns": "4",
-                        "startOffsets": "1267",
+                        "startOffsets": "1309",
                         "endColumns": "204",
-                        "endOffsets": "1467"
+                        "endOffsets": "1509"
                     }
-                },
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-be_values-be.arsc.flat",
+            "map": [
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-be/values.xml",
                     "from": {
@@ -4445,6 +4428,23 @@
                         "startOffsets": "2826",
                         "endColumns": "100",
                         "endOffsets": "2922"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-be/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "204",
+                        "endOffsets": "451"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1267",
+                        "endColumns": "204",
+                        "endOffsets": "1467"
                     }
                 }
             ]
@@ -4483,23 +4483,6 @@
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-nl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1292",
-                        "endColumns": "201",
-                        "endOffsets": "1489"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2",
@@ -4532,29 +4515,29 @@
                         "endColumns": "111,186,131,112,225,128,152,134,236,107,199,127,221,211,97,92,107",
                         "endOffsets": "212,399,531,644,870,999,1152,1287,1726,1834,2034,2162,2384,2596,2694,2787,2895"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-nl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1292",
+                        "endColumns": "201",
+                        "endOffsets": "1489"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-et_values-et.arsc.flat",
             "map": [
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-et/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1261",
-                        "endColumns": "198",
-                        "endOffsets": "1455"
-                    }
-                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-et/values.xml",
                     "from": {
@@ -4570,6 +4553,23 @@
                         "startOffsets": "105,210,404,533,643,852,983,1129,1460,1679,1789,1984,2118,2332,2507,2600,2695",
                         "endColumns": "104,193,128,109,208,130,145,131,218,109,194,133,213,174,92,94,116",
                         "endOffsets": "205,399,528,638,847,978,1124,1256,1674,1784,1979,2113,2327,2502,2595,2690,2807"
+                    }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-et/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1261",
+                        "endColumns": "198",
+                        "endOffsets": "1455"
                     }
                 },
                 {
@@ -4612,23 +4612,6 @@
                     }
                 },
                 {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-fa/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "213",
-                        "endOffsets": "460"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1249",
-                        "endColumns": "213",
-                        "endOffsets": "1458"
-                    }
-                },
-                {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/a219aaa53005fa677df3bfd14ede3871/core-1.1.0/res/values-fa/values-fa.xml",
                     "from": {
                         "startLines": "2",
@@ -4644,12 +4627,46 @@
                         "endColumns": "100",
                         "endOffsets": "2931"
                     }
+                },
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-fa/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "213",
+                        "endOffsets": "460"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1249",
+                        "endColumns": "213",
+                        "endOffsets": "1458"
+                    }
                 }
             ]
         },
         {
             "outputFile": "/Users/isadoraoliv/Documents/GitHub/bank_app/build/app/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat",
             "map": [
+                {
+                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/bd80a4aa40851c29e9c01b4deb6a047c/jetified-play-services-basement-17.0.0/res/values-ur/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "210",
+                        "endOffsets": "457"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1255",
+                        "endColumns": "210",
+                        "endOffsets": "1461"
+                    }
+                },
                 {
                     "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/27a51f2d6fb4c91d7925584bc266b0ae/play-services-base-17.0.0/res/values-ur/values.xml",
                     "from": {
@@ -4682,23 +4699,6 @@
                         "startOffsets": "2833",
                         "endColumns": "100",
                         "endOffsets": "2929"
-                    }
-                },
-                {
-                    "source": "/Users/isadoraoliv/.gradle/caches/transforms-2/files-2.1/de0c769dd29d364b3679fe70a7a01ad3/jetified-play-services-basement-17.0.0/res/values-ur/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "210",
-                        "endOffsets": "457"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1255",
-                        "endColumns": "210",
-                        "endOffsets": "1461"
                     }
                 }
             ]

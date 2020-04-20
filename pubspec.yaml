@@ -25,6 +25,7 @@ dependencies:
   google_maps_flutter: ^0.5.25+1
   permission: ^0.1.7
   geolocator: ^5.3.0
+  device_preview: ^0.4.4
   flutter_icons:
   flutter:
     sdk: flutter
