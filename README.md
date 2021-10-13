@@ -2,7 +2,7 @@
 
 ### IN PROGRESS...
 
-Mockup: [Banking App](https://www.behance.net/gallery/93647323/Banking-App)
+Designer: [Banking App](https://www.behance.net/gallery/93647323/Banking-App)
 
 For use Google Map insert you API Key in Android Manisfest file.
 
